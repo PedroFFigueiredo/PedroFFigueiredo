@@ -2,7 +2,7 @@
 
 - 🔭 Atuamente trabalho com front-end
 - 🌱 Estudando React e Vue.js
-- 👯 Contate-me no e-mail: pedrohenrifagundesfigueiredo@gmail.com
+
 
 <br>
 <div>
