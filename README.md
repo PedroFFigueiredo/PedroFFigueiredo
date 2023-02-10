@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pedro 👋
 
 - 👨‍🎓 Cursando Sistemas de Informação.
-- 💻 Trabalhando na área de TI e desenvolvendo Front-end.
+- 💻 Desenvolvedor Full-Stack na Castro Naves.
 - 📚 Estudando React e Vue.
 
 <br>
@@ -29,6 +29,8 @@
   <a href="https://www.linkedin.com/in/pedro-henrique-fagundes-figueiredo-931aa6194" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/PedroFFigueiredo/PedroFFigueiredo/blob/output/github-contribution-grid-snake.svg)
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=PedroFFigueiredo&theme=onedark)](https://github.com/PedroFFigueiredo/github-profile-trophy)
  
 </div>  
   
