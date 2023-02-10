@@ -10,8 +10,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroFFigueiredo&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFFigueiredo&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=PedroFFigueiredo&theme=onedark)](https://github.com/PedroFFigueiredo/github-profile-trophy)
-<br>  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
