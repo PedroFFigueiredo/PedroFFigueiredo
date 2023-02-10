@@ -28,9 +28,8 @@
   <a href = "mailto:pedrohenrifagundesfigueiredo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-fagundes-figueiredo-931aa6194" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  <br>
   [![trophy](https://github-profile-trophy.vercel.app/?username=PedroFFigueiredo&theme=onedark)](https://github.com/PedroFFigueiredo/github-profile-trophy)
-  <br>
+  
   ![Snake animation](https://github.com/PedroFFigueiredo/PedroFFigueiredo/blob/output/github-contribution-grid-snake.svg)
  
 </div>  
