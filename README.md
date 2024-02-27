@@ -7,8 +7,8 @@
 <br>
 <div>
   <a href="https://github.com/PedroFFigueiredo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroFFigueiredo&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFFigueiredo&layout=compact&langs_count=7&theme=slateorange"/>
+  <img height="180em" src="https://wm-github-readme-stats.vercel.app/api?username=PedroFFigueiredo&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://wm-github-readme-stats.vercel.app/api/top-langs/?username=PedroFFigueiredo&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=PedroFFigueiredo&theme=onedark&margin-w=13)](https://github.com/PedroFFigueiredo/github-profile-trophy)
