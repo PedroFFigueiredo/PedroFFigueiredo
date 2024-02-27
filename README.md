@@ -2,7 +2,6 @@
 
 - 👨‍🎓 Cursando Sistemas de Informação.
 - 💻 Desenvolvedor Full-Stack na Castro Naves.
-- 📚 Estudando React e Vue.
 
 <br>
 <div>
