@@ -33,11 +33,7 @@ Atualmente, estou aprimorando meus conhecimentos em Inteligência Artificial com
   <img height="180em" src="https://wm-github-readme-stats.vercel.app/api?username=PedroFFigueiredo&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://wm-github-readme-stats.vercel.app/api/top-langs/?username=PedroFFigueiredo&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=PedroFFigueiredo&theme=onedark&margin-w=13)](https://github.com/PedroFFigueiredo/github-profile-trophy)
-
-
-  
+<br>  
 <div> 
   <a href="https://www.instagram.com/pedroh.ffigueiredo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrohenrifagundesfigueiredo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
